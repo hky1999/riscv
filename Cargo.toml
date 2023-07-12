@@ -5,5 +5,5 @@ authors = ["tonnylyz <lyztonny@gmail.com>"]
 edition = "2021"
 
 [dependencies]
-tock-registers = "0.8.1"
+tock-registers = "0.7.0"
 
